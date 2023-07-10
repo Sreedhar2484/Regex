@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.AssemblyInfo.cs
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Regex\Regex\bin\Release\net6.0\Regex.exe
+C:\Users\acer\source\repos\Regex\Regex\bin\Release\net6.0\Regex.deps.json
+C:\Users\acer\source\repos\Regex\Regex\bin\Release\net6.0\Regex.runtimeconfig.json
+C:\Users\acer\source\repos\Regex\Regex\bin\Release\net6.0\Regex.dll
+C:\Users\acer\source\repos\Regex\Regex\bin\Release\net6.0\Regex.pdb
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.dll
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\refint\Regex.dll
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.pdb
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\Regex.genruntimeconfig.cache
+C:\Users\acer\source\repos\Regex\Regex\obj\Release\net6.0\ref\Regex.dll
